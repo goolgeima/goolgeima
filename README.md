@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**goolgeima/goolgeima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gustavo Zembruski
+=================
 
-Here are some ideas to get you started:
+Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About me
+--------
+
+Recently graduated from high school, I am on the pursuit of my inaugural professional milestone. Cultivating soft skills and social competencies, I am navigating the path to construct my career in programming and software development. As I am still in the process of acquiring programming skills, my enthusiasm for the field propels me towards swift and concentrated learning.
+
+Skills i'm learning
+------
+
+*   HTML5
+*   CSS3
+*   JavaScript
+
+Projects
+--------
+
+*   [Projeto 1](#) - Descrição breve do projeto.
+*   [Projeto 2](#) - Descrição breve do projeto.
