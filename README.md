@@ -19,4 +19,4 @@ Skills i'm learning
 Projects
 --------
 
-Didn't finish my first yet😫
+For now only the projects provided by Rocketseat courses: discover and explorer, the are at my repositories😘
