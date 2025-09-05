@@ -2,14 +2,14 @@
 Gustavo Zembruski
 =================
 
-Web Developer
+Currently Working as Support Analyst at ATSJornada by nstech
 
 About me
 --------
 
-I recently graduated from high school and am seeking employment in the programming field. I am still learning to code, but my effort and dedication enhance my technical skills every day. Pretty developed soft skills tho😁
+Student of Computer Science at Universidade Federal da Fronteira Sul (UFFS) - Chapecó, SC.
 
-Skills i'm learning
+Skills
 ------
 
 *   HTML5
